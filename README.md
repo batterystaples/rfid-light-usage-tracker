@@ -1,1 +1,0 @@
-# rfid-light-usage-tracker
